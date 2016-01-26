@@ -14,6 +14,15 @@
 		C30CEDAC1C578BA0000CEE73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30CEDAA1C578BA0000CEE73 /* LaunchScreen.storyboard */; };
 		C30CEDB71C578BA0000CEE73 /* ProductivityAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30CEDB61C578BA0000CEE73 /* ProductivityAppTests.swift */; };
 		C30CEDC21C578BA0000CEE73 /* ProductivityAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30CEDC11C578BA0000CEE73 /* ProductivityAppUITests.swift */; };
+		C30CEDD01C57A180000CEE73 /* SignUpEmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30CEDCF1C57A180000CEE73 /* SignUpEmailViewController.swift */; };
+		C30CEDD21C57A4CA000CEE73 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30CEDD11C57A4CA000CEE73 /* CustomTextField.swift */; };
+		C3F3B70B1C57AE51000ED90B /* PasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F3B70A1C57AE51000ED90B /* PasswordViewController.swift */; };
+		C3F3B70D1C57BFD2000ED90B /* LoginEmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F3B70C1C57BFD2000ED90B /* LoginEmailViewController.swift */; };
+		C3F3B70F1C57C31D000ED90B /* LoginPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F3B70E1C57C31D000ED90B /* LoginPasswordViewController.swift */; };
+		C3F3B7111C57CFF9000ED90B /* shakeAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F3B7101C57CFF9000ED90B /* shakeAnimation.swift */; };
+		C3F3B7151C57D2CF000ED90B /* entranceAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F3B7141C57D2CF000ED90B /* entranceAnimation.swift */; };
+		C3F3B7171C57D435000ED90B /* slideFromTheRight.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F3B7161C57D435000ED90B /* slideFromTheRight.swift */; };
+		C3F3B71B1C57D925000ED90B /* isValidEmail.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F3B71A1C57D925000ED90B /* isValidEmail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		C30CEDBD1C578BA0000CEE73 /* ProductivityAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProductivityAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C30CEDC11C578BA0000CEE73 /* ProductivityAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductivityAppUITests.swift; sourceTree = "<group>"; };
 		C30CEDC31C578BA0000CEE73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C30CEDCF1C57A180000CEE73 /* SignUpEmailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpEmailViewController.swift; sourceTree = "<group>"; };
+		C30CEDD11C57A4CA000CEE73 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		C3F3B70A1C57AE51000ED90B /* PasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PasswordViewController.swift; sourceTree = "<group>"; };
+		C3F3B70C1C57BFD2000ED90B /* LoginEmailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginEmailViewController.swift; sourceTree = "<group>"; };
+		C3F3B70E1C57C31D000ED90B /* LoginPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginPasswordViewController.swift; sourceTree = "<group>"; };
+		C3F3B7101C57CFF9000ED90B /* shakeAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = shakeAnimation.swift; sourceTree = "<group>"; };
+		C3F3B7141C57D2CF000ED90B /* entranceAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = entranceAnimation.swift; sourceTree = "<group>"; };
+		C3F3B7161C57D435000ED90B /* slideFromTheRight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = slideFromTheRight.swift; sourceTree = "<group>"; };
+		C3F3B71A1C57D925000ED90B /* isValidEmail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = isValidEmail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +117,15 @@
 			children = (
 				C30CEDA11C578BA0000CEE73 /* AppDelegate.swift */,
 				C30CEDA31C578BA0000CEE73 /* ViewController.swift */,
+				C30CEDCF1C57A180000CEE73 /* SignUpEmailViewController.swift */,
+				C3F3B70A1C57AE51000ED90B /* PasswordViewController.swift */,
+				C3F3B70C1C57BFD2000ED90B /* LoginEmailViewController.swift */,
+				C3F3B70E1C57C31D000ED90B /* LoginPasswordViewController.swift */,
+				C3F3B71A1C57D925000ED90B /* isValidEmail.swift */,
+				C30CEDD11C57A4CA000CEE73 /* CustomTextField.swift */,
+				C3F3B7101C57CFF9000ED90B /* shakeAnimation.swift */,
+				C3F3B7141C57D2CF000ED90B /* entranceAnimation.swift */,
+				C3F3B7161C57D435000ED90B /* slideFromTheRight.swift */,
 				C30CEDA51C578BA0000CEE73 /* Main.storyboard */,
 				C30CEDA81C578BA0000CEE73 /* Assets.xcassets */,
 				C30CEDAA1C578BA0000CEE73 /* LaunchScreen.storyboard */,
@@ -193,6 +220,7 @@
 				TargetAttributes = {
 					C30CED9D1C578BA0000CEE73 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = LKLMW6ZMLT;
 					};
 					C30CEDB11C578BA0000CEE73 = {
 						CreatedOnToolsVersion = 7.2;
@@ -256,7 +284,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C30CEDD21C57A4CA000CEE73 /* CustomTextField.swift in Sources */,
+				C3F3B70F1C57C31D000ED90B /* LoginPasswordViewController.swift in Sources */,
+				C3F3B70B1C57AE51000ED90B /* PasswordViewController.swift in Sources */,
+				C3F3B7111C57CFF9000ED90B /* shakeAnimation.swift in Sources */,
+				C3F3B7151C57D2CF000ED90B /* entranceAnimation.swift in Sources */,
+				C30CEDD01C57A180000CEE73 /* SignUpEmailViewController.swift in Sources */,
+				C3F3B70D1C57BFD2000ED90B /* LoginEmailViewController.swift in Sources */,
+				C3F3B71B1C57D925000ED90B /* isValidEmail.swift in Sources */,
 				C30CEDA41C578BA0000CEE73 /* ViewController.swift in Sources */,
+				C3F3B7171C57D435000ED90B /* slideFromTheRight.swift in Sources */,
 				C30CEDA21C578BA0000CEE73 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -399,10 +436,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = ProductivityApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sht.ProductivityApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -410,10 +450,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = ProductivityApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sht.ProductivityApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -484,6 +527,7 @@
 				C30CEDC81C578BA0000CEE73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C30CEDC91C578BA0000CEE73 /* Build configuration list for PBXNativeTarget "ProductivityAppTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +536,7 @@
 				C30CEDCB1C578BA0000CEE73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C30CEDCC1C578BA0000CEE73 /* Build configuration list for PBXNativeTarget "ProductivityAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +545,7 @@
 				C30CEDCE1C578BA0000CEE73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
